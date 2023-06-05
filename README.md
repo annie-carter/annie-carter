@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annie-carter
-- 👀 I’m interested in food, books, and coding
-- 🌱 I’m currently a Data Science student at CodeUP
+- 👀 My hobbies are traveling, finding and making global cuisine, avid reader, and coding
+- 🌱 Currently, I'm a Data Science student at CodeUP
 - 💞️ I’m looking to collaborate on entry to intermediate level projects to hone my skills 
 - 📫 annie.carter831@gmail.com
 
