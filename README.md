@@ -1,3 +1,4 @@
+:party-vibe-cat:
 With an extensive background spanning over two decades as a Senior Leader and Senior Program Manager, I have amassed a wealth of experience across diverse sectors, including Intelligence, Healthcare, Business, and Technology. Alongside my proficiency in these areas, I have developed a robust skill set in Data Science and Business Analytics.
 
 As a Data Scientist, my competencies encompass the following:
