@@ -13,5 +13,7 @@ As a Data Scientist, my competencies encompass the following:
 * 💻 Experience in implementing and deploying machine learning solutions.
 * 💻 Understanding of database systems and SQL querying.
 * 💻 Excellent communication and presentation skills for effectively conveying complex data insights.
+* 💻 Fluent in Mandarin Chinese and Spanish
+* Currently finishing up dual degree program at Arkansas State University for  Doctorate in Nurse Practice with dual concentrationand in Leadership and Education/ MBA with dual concentration Business Analytics and Health Administration. Development break to complete Data Science Certificate at CodeUp, Inc.
 
 Combining my skills in Data Science, Organizational Leadership, and Education with my expertise in Diversity, Equality and Inclusion, Human Resource Management, and Operations, I bring a comprehensive and well-rounded approach to driving successful outcomes. Furthermore, I possess demonstrated language proficiency in Mandarin Chinese and Spanish, facilitating enhanced collaboration and communication with diverse teams and stakeholders.
