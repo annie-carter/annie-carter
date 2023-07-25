@@ -3,8 +3,8 @@ With an extensive background spanning over two decades as a USAF Senior Leader a
 
 As a Data Scientist, my competencies encompass the following:
 
-* 💻 Proficiency in statistical analysis and modeling techniques.
-* 💻 Experience in data manipulation, cleaning, and preprocessing.
+💻 Proficiency in statistical analysis and modeling techniques.\n
+💻 Experience in data manipulation, cleaning, and preprocessing.\n
 * 💻 Expertise in machine learning algorithms and predictive modeling.
 * 💻 Knowledge of programming languages such as Python and R.
 * 💻 Ability to work with large datasets and perform data visualization.
