@@ -1,5 +1,6 @@
 
-With an extensive background spanning over two decades as a USAF Senior Leader and Intelligence Analyst,  also as a  Senior Program Manager, I have amassed a wealth of experience across diverse sectors, including Intelligence, Healthcare, Business, and Technology. Alongside my proficiency in these areas, I am continually developing my robust skill set in Data Science and Business Analytics. 
+With an extensive background spanning over two decades as a USAF Senior Leader and Intelligence Analyst, also as a Senior Program Manager, I have amassed a wealth of experience across diverse sectors, including Intelligence, Healthcare, Business, and Technology. Alongside my proficiency in these areas, I am continually developing my robust skill set in Data Science and Business Analytics. Demonstrated proficiency in Mandarin Chinese '🇨🇳'(我能说和读普通话和西班牙语）and Spanish '🇪🇸' (Puedo hablar y leer mandarín chino y español)
+:book: Currently finishing up dual degree program at Arkansas State University for Doctor in Nurse Practice with dual concentrationin Leadership and Education/ MBA with dual concentration Business Analytics and Healthcare Administration. Development break to complete Data Science Certificate at CodeUp, Inc.
 
 As a Data Scientist, my competencies encompass the following:
 
@@ -13,7 +14,6 @@ As a Data Scientist, my competencies encompass the following:
 * 💻 Experience in implementing and deploying machine learning solutions.
 * 💻 Understanding of database systems and SQL querying.
 * 💻 Excellent communication and presentation skills for effectively conveying complex data insights.
-* 💻 Fluent in Mandarin Chinese and Spanish
-* Currently finishing up dual degree program at Arkansas State University for  Doctorate in Nurse Practice with dual concentrationand in Leadership and Education/ MBA with dual concentration Business Analytics and Health Administration. Development break to complete Data Science Certificate at CodeUp, Inc.
 
-Combining my skills in Data Science, Organizational Leadership, and Education with my expertise in Diversity, Equality and Inclusion, Human Resource Management, and Operations, I bring a comprehensive and well-rounded approach to driving successful outcomes. Furthermore, I possess demonstrated language proficiency in Mandarin Chinese and Spanish, facilitating enhanced collaboration and communication with diverse teams and stakeholders.
+
+Combining my skills in Data Science, Organizational Leadership, and Education with my expertise in Nursing, Diversity, Equality and Inclusion, Human Resource Management, and Operations, I bring a comprehensive and well-rounded approach to driving successful outcomes facilitating enhanced collaboration and communication with diverse teams and stakeholders.
