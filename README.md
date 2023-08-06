@@ -8,7 +8,7 @@ As a Data Scientist, my competencies encompass the following:
 * 💻 Proficiency in statistical analysis and modeling techniques.
 * 💻 Experience in data manipulation, cleaning, and preprocessing.
 * 💻 Expertise in machine learning algorithms and predictive modeling.
-* 💻 Knowledge of programming languages such as Python and R.
+* 💻 Knowledge of programming languages such as Python.
 * 💻 Ability to work with large datasets and perform data visualization.
 * 💻 Familiarity with data mining and extraction techniques.
 * 💻 Strong analytical and problem-solving skills.
