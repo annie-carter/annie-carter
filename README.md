@@ -45,5 +45,4 @@ Currently finishing up dual degree program for Doctor in Nurse Practice with dua
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annie-carter&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annie-carter)](https://github.com/anuraghazra/github-readme-stats)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annie-carter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
