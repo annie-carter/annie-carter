@@ -41,6 +41,7 @@ Currently finishing up dual degree program for Doctor in Nurse Practice with dua
 ![](https://img.shields.io/static/v1?message=MySQL&logo=mysql&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=SciKit-Learn&logo=scikit-learn&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=SciPy&logo=scipy&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Amazon_AWS&logo=amazon-aws&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=NumPy&logo=numpy&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=MatPlotLib&logo=python&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Seaborn&logo=python&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
@@ -51,9 +52,11 @@ Currently finishing up dual degree program for Doctor in Nurse Practice with dua
 ![](https://img.shields.io/static/v1?message=JupyterLab&logo=jupyter&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Trello&logo=trello&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=NLTK&logo=python&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=HTML&logo=html&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Microsoft&logo=microsoft&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=slack&logo=slack&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Sass&logo=sass&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 
 
 #### 📈 Data Scientist skills:
