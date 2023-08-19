@@ -50,6 +50,6 @@ Data Scientist with an extensive background including, over 20 years as Senior P
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.sv" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack"  alt="slack" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/gihub-original-wordmark.sv" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original-wordmark.sv" title="safari"  alt="safari" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original-wordmark.sv" title="Safari"  alt="Safari" width="40" height="40"/>&nbsp;
 
 
