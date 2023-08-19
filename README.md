@@ -20,6 +20,21 @@
   </h1>
 </div>
 
+
+div style="display: flex; justify-content: center;">
+  <div id="linkedin-badge" style="text-align: center; margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/annie-carter-941975a5/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+
+  <div id="github-badge" style="text-align: center;">
+    <img src="https://komarev.com/ghpvc/?username=annie-carter&style=flat-square&color=blue" alt="GitHub Profile Views Badge"/>
+  </div>
+</div>
+
+
+
 ### About ME
 #### 🗣️ Languages:
 🇺🇸 English 🇨🇳 Mandarin Chinese 🇪🇸 Spanish 
@@ -51,9 +66,4 @@ Currently finishing up dual degree program for Doctor in Nurse Practice with dua
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annie-carter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Github Stats
-
-<img width="276" src="https://raw.githubusercontent.com/annie-carter/annie-carter/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/annie-carter/annie-carter/master/profile-summary-card-output/github_dark/0-profile-details.svg">
-
-<img width="100%" src="https://github.com/annie-carter/annie-carter/raw/master/skills.svg">
 
