@@ -50,8 +50,8 @@ Currently finishing up dual degree program for Doctor in Nurse Practice with dua
 ![](https://img.shields.io/static/v1?message=JupyterLab&logo=jupyter&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Trello&logo=trello&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=NLTK&logo=python&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=HTML5&logo=HTML&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Microsoft-666666&logo=microsoft&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=HTML&logo=HTML&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Microsoft&logo=microsoft&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 
 #### 📈 Data Scientist skills:
 * Proficiency in statistical analysis, modeling, and data preparation.
