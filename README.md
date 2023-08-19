@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG" width="100"/>
+  <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/200.webp?cid=ecf05e47dyw5aujrk459ggcauyw5krfq3ddt9p7ykld28crb&ep=v1_gifs_related&rid=200.webp&ct=s" width="100"/>
 </div>
 
 
