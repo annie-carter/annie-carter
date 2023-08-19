@@ -15,11 +15,11 @@
   </h1>
 </div>
 
-### About ME
-</div>
+### About ME </div>
 <div id="header" align="center" >
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Annie+Carter;Data+Scientist;Program+Manager;Healthcare+Provider" />
 </div>
+
 #### 🗣️ Languages:
 🇺🇸 English 🇨🇳 Mandarin Chinese 🇪🇸 Spanish 
 
