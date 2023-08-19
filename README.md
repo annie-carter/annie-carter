@@ -25,8 +25,9 @@
 
 Data Scientist with an extensive background including, over 20 years as Senior Program Manager and USAF Intelligence Analyst, I have amassed a wealth of experience across diverse sectors, including Intelligence, Healthcare, Business, and Technology. Alongside my proficiency in these areas, I am continually developing my robust skill set in Data Science and Business Analytics. 
 
-🗣️ Proficient in Mandarin Chinese '🇨🇳'(我能说和读普通话和西班牙语）
-🗣️ Proficient Spanish '🇪🇸' (Puedo hablar y leer mandarín chino y español)
+### 🗣️: Languages :
+🇨🇳 Mandarin Chinese  - 我能说和读普通话和西班牙语）
+🇪🇸 Spanish - Puedo hablar y leer mandarín chino y español
 
 👩‍🎓 Currently finishing up dual degree program at Arkansas State University for Doctor in Nurse Practice with dual concentrationin Leadership and Education/ MBA with dual concentration Business Analytics and Healthcare Administration. Development break to complete Data Science Certificate at CodeUp, Inc.
 
@@ -35,7 +36,9 @@ Data Scientist with an extensive background including, over 20 years as Senior P
 * Proficiency in statistical analysis and modeling techniques.
 * Experience in data manipulation, cleaning, and preprocessing.
 * Expertise in machine learning algorithms and predictive modeling.
-*  Knowledge of programming languages such as :python:.
+* Knowledge of programming languages such as ![image](https://github.com/annie-carter/annie-carter/assets/131205837/51044f8a-5ecf-442c-a3de-c497b03e903f) ![image](https://github.com/annie-carter/annie-carter/assets/131205837/2a736c89-06f9-42b8-83dc-b8340ca2c333)
+
+
 * Ability to work with large datasets and perform data visualization.
 * Familiarity with data mining and extraction techniques.
 * Strong analytical and problem-solving skills.
