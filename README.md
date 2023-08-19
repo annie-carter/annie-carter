@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/annie-carter-941975a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+</div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=annie-carter&style=flat-square&color=blue" alt=""/>
 
 
