@@ -20,7 +20,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Annie+Carter;Data+Scientist;Program+Manager;Healthcare+Provider" />
 </div>
 
-#### 🗣️ Languages:
+#### 🗣️ Spoken Languages:
 🇺🇸 English 🇨🇳 Mandarin Chinese 🇪🇸 Spanish 
 
 Data Scientist with an extensive background including, over 20 years as Senior Program Manager and USAF Intelligence Analyst, I have amassed a wealth of experience across diverse sectors, including Intelligence, Healthcare, Business, and Technology. Alongside my proficiency in these areas, I am continually developing my robust skill set in Data Science and Business Analytics. I bring a comprehensive and well-rounded approach to driving successful outcomes facilitating enhanced collaboration and communication with diverse teams and stakeholders.
@@ -33,7 +33,6 @@ Currently finishing up dual degree program for Doctor in Nurse Practice with dua
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter"  alt="jupyter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack"  alt="slack" width="40" height="40"/>&nbsp;
 
 
 ![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
@@ -56,8 +55,6 @@ Currently finishing up dual degree program for Doctor in Nurse Practice with dua
 ![](https://img.shields.io/static/v1?message=Microsoft&logo=microsoft&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=slack&logo=slack&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Sass&logo=sass&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
-https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-
 
 #### 📈 Data Scientist skills:
 * Proficiency in statistical analysis, modeling, and data preparation.
