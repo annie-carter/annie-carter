@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/200.webp?cid=ecf05e47dyw5aujrk459ggcauyw5krfq3ddt9p7ykld28crb&ep=v1_gifs_related&rid=200.webp&ct=s" width="100"/>
 </div>
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Annie+Carter;Data+Scientist/Program+Manager;Healthcare+Provider" />
 
 <div id="linkedin-badge" align="center">
   <a href="https://www.linkedin.com/in/annie-carter-941975a5/">
