@@ -1,14 +1,23 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/200.webp?cid=ecf05e47dyw5aujrk459ggcauyw5krfq3ddt9p7ykld28crb&ep=v1_gifs_related&rid=200.webp&ct=s" width="100"/>
 </div>
-<div id="header" align="center">
+
+<div id="linkedin-badge" align="center">
   <a href="https://www.linkedin.com/in/annie-carter-941975a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=annie-carter&style=flat-square&color=blue" alt=""/>
+</div>
 
+<div id="github-badge" align="center">
+  <img src="https://komarev.com/ghpvc/?username=annie-carter&style=flat-square&color=blue" alt="GitHub Profile Views Badge"/>
+</div>
 
+<div id="greeting" align="center">
+  <h1>
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand Emoji"/>
+  </h1>
+</div>
 
 
 
