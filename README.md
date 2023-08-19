@@ -50,3 +50,10 @@ Currently finishing up dual degree program for Doctor in Nurse Practice with dua
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annie-carter&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annie-carter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Github Stats
+
+<img width="276" src="https://raw.githubusercontent.com/annie-carter/annie-carter/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/annie-carter/annie-carter/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+
+<img width="100%" src="https://github.com/annie-carter/annie-carter/raw/master/skills.svg">
+
