@@ -21,7 +21,7 @@
 ### About ME
 Data Scientist with an extensive background including, over 20 years as Senior Program Manager and USAF Intelligence Analyst, I have amassed a wealth of experience across diverse sectors, including Intelligence, Healthcare, Business, and Technology. Alongside my proficiency in these areas, I am continually developing my robust skill set in Data Science and Business Analytics. I bring a comprehensive and well-rounded approach to driving successful outcomes facilitating enhanced collaboration and communication with diverse teams and stakeholders.
 
-👩‍🎓 Currently finishing up dual degree program for Doctor in Nurse Practice with dual concentrationin Leadership and Education/ MBA with dual concentration Business Analytics and Healthcare Administration. Data Science Certificate at CodeUp, Inc.
+Currently finishing up dual degree program for Doctor in Nurse Practice with dual concentrationin Leadership and Education/ MBA with dual concentration Business Analytics and Healthcare Administration. Data Science Certificate at CodeUp, Inc.
 
 #### 📈 Data Scientist skills:
 * Proficiency in statistical analysis, modeling, and data preparation.
@@ -33,17 +33,17 @@ Data Scientist with an extensive background including, over 20 years as Senior P
 * Effective communication of data-driven findings.
 
 #### 🗣️ Languages:
-🇺🇸 English 
-🇨🇳 Mandarin Chinese  
-🇪🇸 Spanish 
+🇺🇸 English 🇨🇳 Mandarin Chinese 🇪🇸 Spanish 
 
 #### 🛠️ Programming Languages and Tools: 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter"  alt="jupyter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack"  alt="slack" width="40" height="40"/>&nbsp;
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annie-carter&theme=dark&background=000000)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annie-carter&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annie-carter)](https://github.com/anuraghazra/github-readme-stats)
  
