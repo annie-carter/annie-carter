@@ -1,4 +1,4 @@
-<div id="header" align="center" width="800" height="200">
+<div id="header" align="center" width="500">
   <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/200.webp?cid=ecf05e47dyw5aujrk459ggcauyw5krfq3ddt9p7ykld28crb&ep=v1_gifs_related&rid=200.webp&ct=s" width="100"/>
 <div id="linkedin-badge" align="center">
   <a href="https://www.linkedin.com/in/annie-carter-941975a5/">
