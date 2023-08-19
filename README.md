@@ -19,13 +19,13 @@
 
 ### About ME </div>
 <div id="header" align="center" >
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Annie+Carter;Data+Scientist;Program+Manager;Healthcare+Provider" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Annie+Carter;Data+Scientist;Sr+Program+Manager;Healthcare+Provider" />
 </div>
 
 #### 🗣️ Spoken Languages:
 🇺🇸 English 🇨🇳 Mandarin Chinese 🇪🇸 Spanish 
 
-Data Scientist with an extensive background including, over 20 years as Senior Program Manager and USAF Intelligence Analyst, I have amassed a wealth of experience across diverse sectors, including Intelligence, Healthcare, Business, and Technology. Alongside my proficiency in these areas, I am continually developing my robust skill set in Data Science and Business Analytics. I bring a comprehensive and well-rounded approach to driving successful outcomes facilitating enhanced collaboration and communication with diverse teams and stakeholders.
+🧑‍🔬 Data Scientist with an extensive background including, over 20 years as Senior Program Manager and USAF Intelligence Analyst, I have amassed a wealth of experience across diverse sectors, including Intelligence, Healthcare, Business, and Technology. Alongside my proficiency in these areas, I am continually developing my robust skill set in Data Science and Business Analytics. I bring a comprehensive and well-rounded approach to driving successful outcomes facilitating enhanced collaboration and communication with diverse teams and stakeholders.
 
 Currently finishing up dual degree program for Doctor in Nurse Practice with dual concentrationin Leadership and Education/ MBA with dual concentration Business Analytics and Healthcare Administration. Data Science Certificate at CodeUp, Inc.
 
