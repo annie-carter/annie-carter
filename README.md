@@ -1,15 +1,10 @@
 <div id="header" align="center"  width="500">
   <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/200.webp?cid=ecf05e47dyw5aujrk459ggcauyw5krfq3ddt9p7ykld28crb&ep=v1_gifs_related&rid=200.webp&ct=s" width="100"/>
-</div>
-<div id="header" align="center" >
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Annie+Carter;Data+Scientist;Program+Manager;Healthcare+Provider" />
-</div>
 <div id="linkedin-badge" align="center">
   <a href="https://www.linkedin.com/in/annie-carter-941975a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 <div id="github-badge" align="center">
   <img src="https://komarev.com/ghpvc/?username=annie-carter&style=flat-square&color=blue" alt="GitHub Profile Views Badge"/>
 </div>
@@ -21,6 +16,10 @@
 </div>
 
 ### About ME
+</div>
+<div id="header" align="center" >
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Annie+Carter;Data+Scientist;Program+Manager;Healthcare+Provider" />
+</div>
 #### 🗣️ Languages:
 🇺🇸 English 🇨🇳 Mandarin Chinese 🇪🇸 Spanish 
 
