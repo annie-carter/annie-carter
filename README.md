@@ -20,21 +20,6 @@
   </h1>
 </div>
 
-
-div style="display: flex; justify-content: center;">
-  <div id="linkedin-badge" style="text-align: center; margin-right: 10px;">
-    <a href="https://www.linkedin.com/in/annie-carter-941975a5/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-
-  <div id="github-badge" style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=annie-carter&style=flat-square&color=blue" alt="GitHub Profile Views Badge"/>
-  </div>
-</div>
-
-
-
 ### About ME
 #### 🗣️ Languages:
 🇺🇸 English 🇨🇳 Mandarin Chinese 🇪🇸 Spanish 
